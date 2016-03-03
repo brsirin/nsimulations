@@ -33,7 +33,9 @@ Date of Birth: 25.10.1985
 
 ### Master
 #####2015-Ongoing 
-Tilburg University, Tilburg, Netherlands - MSc. Economics 
+Tilburg University, Tilburg, Netherlands - MSc. Economics
+
+2015-2016 Jean Monnet Scholar  
 
 
 ###Bachelor
