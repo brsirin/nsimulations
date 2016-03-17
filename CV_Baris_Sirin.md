@@ -11,6 +11,8 @@ E-mail: b.sirin@uvt.nl
 
 Date of Birth: 25.10.1985
 
+**Game Theory Assignment: <http://brsirin.github.io/nsimulations/assignment_2/presentation>**
+
 
 ## Professional Experience
 
@@ -52,3 +54,5 @@ TOEFL: 101/120
 ##Computer Skills
 ####Microsoft Office Applications
 ####VBA
+
+
